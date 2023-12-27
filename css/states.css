@@ -1,0 +1,4 @@
+.filter_button_conatiner .filter_button:hover path {
+    fill-opacity: 1;
+    cursor: pointer;
+}
